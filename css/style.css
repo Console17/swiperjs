@@ -1,0 +1,26 @@
+.tour-offers-section {
+  padding: 40px 100px;
+}
+
+.pagination_ {
+  position: relative;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0;
+  margin: 1em 0 1.5em;
+}
+
+.swiper-slide img {
+  width: 100%;
+}
+
+.arrow-right {
+  rotate: 180deg;
+}
+
+.pagination_ img {
+  width: 40px;
+  height: 40px;
+  cursor: pointer;
+}/*# sourceMappingURL=style.css.map */
